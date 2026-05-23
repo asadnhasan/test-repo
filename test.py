@@ -4,7 +4,7 @@ name = input("What is your name? ")
 
 if(name == "Alice"):
     print("Hello, Alice!")
-elif(name == "Bob"):
-    print("Hello, Bob!")
+elif(name == "John"):
+    print("Hello, John!")
 else:
     print("Hello, stranger!")
